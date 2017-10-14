@@ -17,6 +17,11 @@ html {
   left:70px; top:92px; right:0; bottom:0px;
 }
 
+.projects {
+  position:absolute;
+  left:300px;
+}
+
 .navigationBarUl {
   overflow: hidden;
   background-color: #333;
